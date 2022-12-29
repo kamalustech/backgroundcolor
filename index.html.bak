@@ -7,11 +7,13 @@
 
 </head>
 <body>
-	<h6>Heading</h6>
+	<h1>Heading</h1>
 	<br>
 	<link rel = 'stylesheet' text = 'text/css' href="color.css">
 	Nice Color, looks good
 	This index.html is from back ground Kamal
 	<script type="text/javascript" src = 'script.js'></script>
+	<label for = 'fname'>First Name</label>
+	<input text= 'text' name = 'fname' id = 'fname'>
 </body>
 </html>
