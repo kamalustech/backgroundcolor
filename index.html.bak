@@ -8,7 +8,7 @@
 </head>
 <body>
 	<link rel = 'stylesheet' text = 'text/css' href="color.css">
-	Nice Color, looks good
+	Nice Color
 	<script type="text/javascript" src = 'script.js'></script>
 </body>
 </html>
